@@ -1,0 +1,2 @@
+# CSOPESY backing store: pages currently paged out of physical memory
+# frame size: 256 bytes | pages stored: 0
